@@ -8,21 +8,21 @@
     ]
   },
   "CommunityInfo": {
-    "Name": "{Your community name}",
-    "Country": "{Your community country}",
-    "Url": "https://yourcommunity.something/",
-    "SessionizeApiId": "{Your sessionize event Id}",
-    "Description_SessionizeApiId": "If you have configured your Sessionize correctly then browsing to this url (replacing {Your sessionize event Id} with your event sessionize id) will return valid json: https://sessionize.com/api/v2/{Your sessionize event Id}/view/Sessions",
+    "Name": "{Global Azure Bootcamp Patos de Minas - MG}",
+    "Country": "{Patos de Minas - MG}",
+    "Url": "https://www.synit.com.br/gab",
+    "SessionizeApiId": "{8c3k1sgq}",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/8c3k1sgq/view/Sessions",
     "Logo": {
       "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
-      "File": "_template.png"
+      "File": "_gab-patos-de-minas.png"
     },
     "Locations": [
       {
-        "Name": "{Name of the location}",
-        "Address": "{Optional address of the location}",
-        "Latitude": 47.6457554,
-        "Longitude": -122.1299952
+        "Name": "Unipam - Patos de Minas",
+        "Address": "R. Major Gote, 808 - Caiçaras, Patos de Minas - MG, 38700-207",
+        "Latitude": -18.573797980903258,
+        "Longitude": -46.513861246026686,
       }
     ]
   }
